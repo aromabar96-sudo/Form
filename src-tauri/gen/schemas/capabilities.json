@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"Default capability for the main FORM window — core APIs only. Native-only features (file save dialogs, ffmpeg sidecar export) will need explicit permissions added here when they're implemented (see docs/FORM-Studio-Plan.md Phase 7).","local":true,"windows":["main"],"permissions":["core:default"]}}
